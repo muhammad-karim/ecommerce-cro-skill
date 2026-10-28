@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: implement-approved-items
+expected_outcome: |
+  Implements only items 1 and 3 as editable Dawn sections/snippets with schema settings, leaves item 2 alone, uses no hard-coded fake data, and returns a change log and measurement plan without publishing.

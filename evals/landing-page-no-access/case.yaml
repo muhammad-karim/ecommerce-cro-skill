@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: landing-page-no-access
+expected_outcome: |
+  A heuristic landing-page audit using ATIDFA and direct-response rules, honest that it is data-free, framing items as hypotheses, and asking before any implementation.
