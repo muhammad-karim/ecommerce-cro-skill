@@ -25,7 +25,7 @@ Use these to size impact and justify priorities. Cite the source in the report.
 - Most tests don't win. Agency benchmarks for e-commerce put win rates at roughly a third (e.g. one 2026 analysis of 90+ brands cites ~36%, with scarcity copy and shipping reassurance among the frequent PDP winners). Set expectations: a report is a backlog of hypotheses, not guaranteed lifts.
 - Use RPV as the primary metric. Run at least 2 full weeks. Segment by device and new vs returning. Don't stop early on a peeking "win".
 - Low-traffic stores (<~15k sessions/month): ship clear UX fixes (broken things, missing info, cost transparency) directly and compare before/after over equal periods. Reserve formal tests for contested changes.
-- Sources: https://advertorialwizard.com/blog/ecommerce-ab-test-benchmarks-2026 · Kurt Elster (see kurt-elster.md)
+- Sources: https://advertorialwizard.com/blog/ecommerce-ab-test-benchmarks-2026 · see testing-insights.md
 
 ## Designing for AI shopping agents (2026)
 More discovery and comparison now happens through AI assistants and agents that read product data rather than looking at the page. To stay "selectable":
@@ -36,7 +36,7 @@ More discovery and comparison now happens through AI assistants and agents that 
 - Put return windows, shipping costs and delivery ranges in structured, scannable form.
 - Source: https://wearepresta.com/agentic-first-shopify-designing-product-pages-for-ai-agents/
 
-## Notes from the user's own CRO notes (Notion)
+## Practitioner notes
 - Get products in front of customers as fast as possible. Push SEO copy below the products on collection pages.
 - Readability lowers bounce (Baymard readability guidelines). Watch line length.
 - Removing things often produced the best results. "Ugly" can still convert.

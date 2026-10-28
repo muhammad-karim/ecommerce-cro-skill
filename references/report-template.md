@@ -36,7 +36,7 @@ Type: **Quick win** = low risk, ship directly · **Test** = contested or high-st
 ### #1 — [Title]
 - **Where:** [page › section] (screenshot ref)
 - **What we saw:** [specific observation]
-- **Why it matters:** [principle + source, e.g. ATIDFA "Attention" (Kenyon); Baymard: 19% abandon over trust]
+- **Why it matters:** [principle + source, e.g. ATIDFA "Attention"; Baymard: 19% abandon over trust]
 - **Recommendation:** [specific build spec]
 - **Hypothesis:** Because [X], changing [Y] should improve [metric].
 - **How to measure:** [primary RPV; secondary add-to-cart rate…; test vs before/after]

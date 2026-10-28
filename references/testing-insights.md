@@ -1,6 +1,6 @@
-# Kurt Elster (Ethercycle) — test-first CRO
+# Testing insights: what real split tests showed
 
-Kurt Elster runs Ethercycle, a Shopify agency, and hosts The Unofficial Shopify Podcast. His counterweight to "best practice" lists: **audiences differ, so test your assumptions**. He often finds that confident predictions are wrong. All content is paraphrased.
+This file is the counterweight to "best practice" lists. Audiences differ, so **test your assumptions**: confident predictions are often wrong. These are results from real Shopify split tests, paraphrased; sources are at the bottom.
 
 ## Mindset
 
@@ -13,7 +13,7 @@ Kurt Elster runs Ethercycle, a Shopify agency, and hosts The Unofficial Shopify 
 - Use heatmaps, scroll maps and session recordings (Hotjar, Microsoft Clarity, Lucky Orange) to see where people get stuck, then test what you find.
 - Most Shopify themes are built as catalogues, not funnels. Customising a good premium theme around the customer journey usually beats a ground-up rebuild.
 
-## Readability (his biggest lever)
+## Readability (often the biggest lever)
 
 Content and readability matter more than visual polish:
 - Body text **~16px or larger**, line height **~1.5**, line length **~60–80 characters**. Don't run text full-width on big monitors.
@@ -22,7 +22,7 @@ Content and readability matter more than visual polish:
 - Prefer system fonts over external web fonts where it helps Core Web Vitals.
 - Tiny font-size tweaks alone didn't reach significance. Overall readability did.
 
-## His split-test results
+## Split-test results
 
 Use these to flag "contested" recommendations and to suggest tests:
 
@@ -43,7 +43,7 @@ Use these to flag "contested" recommendations and to suggest tests:
 - Big hero banners on collection pages and PDPs push products down.
 - On lead-gen pages, use one primary CTA plus at most a secondary text link.
 
-## Case example — Everest Bands (Ethercycle)
+## Case example — a watch-strap brand
 
 They customised an existing premium theme rather than rebuilding, and walked the store as a buyer to remove friction. Customer surveys showed buyers saw the straps as a fashion accessory, not a cheap replacement, so headlines and descriptions were rewritten in customers' own words. They added a "pick your watch first" selector so shoppers only saw compatible products, plus educational landing pages for paid traffic. The redesign reportedly paid for itself within three days.
 

@@ -1,12 +1,12 @@
-# Oliver Kenyon (ConversionWise) — CRO principles
+# Proven page patterns: the ATIDFA framework and recurring fixes
 
-Oliver Kenyon is co-founder of ConversionWise, a CRO agency, and posts frequent before/after redesigns on X (@oliverkenyon) and LinkedIn, plus a weekly newsletter. His approach: **start from a proven structure rather than guesswork**. A page that follows a tested framework is far more likely to convert from day one. Everything below is paraphrased.
+This file is the backbone of the audit. The approach is to **start from a proven page structure rather than guesswork**, because a page that follows a tested framework is far more likely to convert from day one. It's drawn from hundreds of published e-commerce redesigns and A/B tests. Everything is paraphrased; sources are at the bottom.
 
 ## Contents
 1. The ATIDFA framework
 2. Above-the-fold essentials
 3. Direct-response rules
-4. Recurring fixes from his "100 landing page redesigns"
+4. Recurring fixes from 100 published redesigns
 5. Reviews and social proof
 6. Recent tests (2026 newsletter)
 7. Sources
@@ -15,7 +15,7 @@ Oliver Kenyon is co-founder of ConversionWise, a CRO agency, and posts frequent 
 
 ## 1. The ATIDFA framework
 
-ATIDFA is his adaptation of AIDA, run top to bottom down a landing page or PDP:
+ATIDFA is an e-commerce adaptation of the classic AIDA model. Run it top to bottom down a landing page or PDP:
 
 | Step | What it means | What to check |
 |---|---|---|
@@ -26,20 +26,20 @@ ATIDFA is his adaptation of AIDA, run top to bottom down a landing page or PDP:
 | **F — FAQ** | Answer the objections that stop someone buying. Source them from real customer questions (shipping, refunds, sizing, timing) | Does the FAQ address real objections, or generic filler? |
 | **A — Action** | One clear CTA, with directional cues (arrow or pointing emoji) and urgency words like "now" | Single, contrasting, repeated CTA |
 
-His mini-course "How to build high converting Ecommerce landing pages" teaches this framework lesson by lesson (one lesson per letter). It comes with a desktop wireframe and an ATIDFA eBook.
+
 
 ## 2. Above-the-fold essentials
 
 On product and landing pages, these should all be visible without scrolling on mobile:
 
-- **Value proposition / benefit-driven headline.** For products, add the outcome to the title. The formula he uses for sales pages is timeframe + result + benefit.
+- **Value proposition / benefit-driven headline.** For products, add the outcome to the title. A good formula for sales pages is timeframe + result + benefit.
 - **Specific social proof.** A star rating *plus a number*, such as "Rated 4.8 by 12,000+ customers". Stars alone are weaker.
-- **Trust signals.** Icons with short text for free shipping, returns, guarantee and secure checkout. Move these from the footer (which he calls "the graveyard") to directly under the navigation, as a **trust policy bar**.
+- **Trust signals.** Icons with short text for free shipping, returns, guarantee and secure checkout. Move these from the footer (where nobody looks) to directly under the navigation, as a **trust policy bar**.
 - **Product or emotive imagery.** 1:1 product images with clear thumbnails or carousel arrows. Use lifestyle, UGC or outcome imagery, not just packshots. Don't let a huge hero image push the CTA below the fold.
 - **Price, displayed clearly.** Show the exact saving as money ("Save £12"), not just a strikethrough. Do the maths for the shopper.
 - **3–5 benefit bullets**, made scannable with icons or emojis, instead of paragraphs or hidden dropdowns.
 - **A primary CTA** in a contrasting colour, full width on mobile, and ideally **sticky at the bottom of the screen on mobile**. Anchor it with payment logos and trust icons directly beneath.
-- **Subtle urgency or scarcity** near the button, only when true: "In stock, ships today", "Low stock", "Viewed 1,200 times in the last 24h". He notes that loud flashing banners no longer work.
+- **Subtle urgency or scarcity** near the button, only when true: "In stock, ships today", "Low stock", "Viewed 1,200 times in the last 24h". Loud flashing banners no longer work.
 
 ## 3. Direct-response rules (landing pages)
 
@@ -47,14 +47,14 @@ On product and landing pages, these should all be visible without scrolling on m
 - **Problem → authority → solution.** Name the pain, establish credibility, then present the offer. The layout stays the same across industries.
 - **Keep it simple (KISS).** One product and one offer per page. Upsell *after* the first purchase rather than crowding the page with bundles and price points.
 - **Video**: load it in a modal from a third-party host, and use at most 1–2 per page. A secondary "Watch video" button can be colour-flipped from the primary.
-- **Emojis in CTA text** (👉 Add to cart, ⏰ Rush my order) — he reports these lift click-through.
+- **Emojis in CTA text** (👉 Add to cart, ⏰ Rush my order) — reported to lift click-through.
 - **Testimonials above the fold** on lead-gen, presale and sales pages. Avoid stock photos. A review that mentions a minor drawback can read as more credible.
 - **Test every browser and device.** Forms and buttons can silently break on one browser.
-- **Page speed**: run PageSpeed Insights and act on it. He cites a claim that each second saved lifts conversion 3–10%.
+- **Page speed**: run PageSpeed Insights and act on it. A commonly cited claim is that each second saved lifts conversion 3–10%.
 
-## 4. Recurring fixes from his "100 landing page redesigns"
+## 4. Recurring fixes from 100 published redesigns
 
-These patterns recur across his teardowns (MVMT, Gymshark, ASOS, Harry's, Ridge, Chewy, Sol Apparel, Citizen Home and many more). Use them as a checklist of "usual suspects":
+These patterns recur across teardowns of (MVMT, Gymshark, ASOS, Harry's, Ridge, Chewy, Sol Apparel, Citizen Home and many more). Use them as a checklist of "usual suspects":
 
 **Announcement bar / header**
 - Make the announcement bar contrast with the site (a white bar on a white site disappears). Add an emoji, and make sure it shows on mobile.
@@ -101,7 +101,7 @@ These patterns recur across his teardowns (MVMT, Gymshark, ASOS, Harry's, Ridge,
 
 ## 5. Reviews and social proof
 
-His **7-part anatomy of a high-converting review**:
+The **7-part anatomy of a high-converting review**:
 1. Put a headline above the review that calls out its most persuasive point.
 2. Wrap it in quotation marks so it reads as a testimonial.
 3. Bold the key phrase, usually the result.
@@ -112,7 +112,7 @@ His **7-part anatomy of a high-converting review**:
 
 **Placement**: show a review summary above the fold, photo reviews below the images, trust badges near add-to-cart, a UGC gallery mid-page, and testimonials throughout.
 
-## 6. Recent tests (ConversionWise newsletter, Aug–Oct 2026)
+## 6. Recent experiments (Aug–Oct 2026)
 
 These are recent, specific tests. The revenue figures are self-reported single cases, so treat them as hypotheses worth testing, not guarantees.
 
@@ -135,14 +135,14 @@ These are recent, specific tests. The revenue figures are self-reported single c
 | **Native vs builder landing pages** | Rebuilt a winning landing page natively in Shopify (Liquid) vs the same page in a page builder | Native: +9.9% CR, +20.9% RPV, +10% AOV |
 | **Persona post-click journeys** | One product, several personas. Each ad leads to a matching landing experience (PDP vs listicle vs advertorial vs quiz) and the whole journey is tested | Not quantified |
 
-Ideas he repeatedly proposes as **first tests for a store with no data**:
+Ideas repeatedly proposed as **first tests for a store with no data**:
 - **Cart**: free-gift or shipping progress bar, cross-sells with ratings and one-click add, obvious savings, reassurance near the checkout button.
 - **PDP**: trust signals above the title, more visible reviews, prominent savings, features rewritten as benefits, sensible variant defaults, and "subscribe" vs "one-time" shown as two distinct choices with "pause or cancel anytime".
 - **Homepage**: immediate trust, lifestyle imagery, a benefit-led headline, one clear CTA, key selling points just below the fold.
 
 ## 7. Sources
 
-- Notion: "How to build high converting Ecommerce landing pages" mini-course and "100 Landing page redesigns" (user's workspace, Marketing Resources)
+- "How to build high converting Ecommerce landing pages" mini-course and "100 Landing page redesigns" (Oliver Kenyon, ConversionWise)
 - Lead Generation Podcast ep. 50 (ATIDFA): https://leadpages.com/blog/oliver-kenyon-podcast-skyrocket-your-conversions
 - Affiliate World — landing page best practices: https://affiliateworldconferences.com/blog/landing-page-best-practices/
 - ConversionWise newsletter: https://newsletter.conversionwise.com/ (posts including "Product pages that actually convert", "The 7-part anatomy of a high-converting review", and the Aug–Oct 2026 issues)
