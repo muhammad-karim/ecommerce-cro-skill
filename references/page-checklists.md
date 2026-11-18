@@ -41,6 +41,7 @@ Work through these on **mobile first**, then desktop. Mark each item ✅ pass / 
 - [ ] A one-line description under each category, where categories genuinely differ
 - [ ] Collections ordered by revenue per session, not internal preference
 - [ ] No social icons or off-site links in the menu
+- [ ] Clearance and sale links go straight to their collection, with no empty dropdown
 - [ ] Revenue links separated from generic links (about, blog)
 - [ ] Free-shipping message and a line of social proof in the menu
 
@@ -50,6 +51,7 @@ Work through these on **mobile first**, then desktop. Mark each item ✅ pass / 
 - [ ] **Prices shown** on product cards
 - [ ] Star ratings and review counts on cards. Honest badges ("Best seller", "New")
 - [ ] Simple sort and filter. Filters pruned to the ones people use
+- [ ] ⚖️ Chips built from the most common search queries, in place of or beside Sort/Filter (test it)
 - [ ] Default sort deliberately set, e.g. manual by revenue per session, re-ranked monthly. Not "Newest" for first-time visitors
 - [ ] Free-shipping notice and a line of social proof at the top
 - [ ] SEO copy sits *below* the products, not above [user notes / OK]
@@ -67,6 +69,7 @@ Work through these on **mobile first**, then desktop. Mark each item ✅ pass / 
 - [ ] One primary CTA, contrasting colour, full width. Sticky on mobile. Competing CTAs (wishlist) removed or demoted
 - [ ] Trust icons and payment logos anchored directly under the CTA
 - [ ] In-stock message. Honest scarcity only ⚖️
+- [ ] Decision block together: size-finder link, stock line, delivery date range, free shipping and returns on one line
 - [ ] **One objection-answering review card directly under add-to-cart**
 - [ ] If there's a fit question (size, compatibility, skin type), the CTA becomes a next step that resolves it ("Find your size")
 - [ ] Estimated delivery shown as a specific date
@@ -96,6 +99,7 @@ Work through these on **mobile first**, then desktop. Mark each item ✅ pass / 
 - [ ] For high-ticket items: selling points, guarantee and a specific delivery date in the cart
 - [ ] CTA reads "Continue to checkout". Payment logos and trust seals under it
 - [ ] Express checkout options (Shop Pay, Apple Pay, PayPal)
+- [ ] Trust bar under the nav: a maximum of three items, chosen from what post-purchase survey respondents say matters
 
 ## 7. Checkout (observe only; don't place orders)
 - [ ] Guest checkout prominent. No forced account creation (18% of abandoners cite it)

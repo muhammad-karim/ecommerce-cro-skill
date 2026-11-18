@@ -35,6 +35,7 @@ Use these to flag "contested" recommendations and to suggest tests:
 | **Add-to-cart on collection pages** | +~15% RPV (85%, borderline) | Good for cheaper, similar, multi-buy items. Weaker for high-ticket, spec-driven items. Test by category and device |
 | **Breadcrumbs** | Removing them raised CR but cut multi-item orders. Keeping them gave +~53% RPV (92%) | Keep breadcrumbs. Backfill them for visitors landing from Google Shopping |
 | **Free-shipping thresholds** (none vs $25 vs $75) | Checkout CR barely moved. Profit per visitor was ~$20 with no free shipping vs ~$12 at a $25 threshold (fulfilment ~$7.50/order) | Don't assume free shipping pays. Model profit. Start the threshold ~20% above AOV and test. Free shipping as a periodic promo creates natural urgency |
+| **AI-generated landing pages** | A survey of over 50 brands found only one reported that AI-built pages beat the pages they already had (ConversionWise, 13 Oct 2026) | Treat AI-written pages as a hypothesis. Test them against the live page, and never swap them in on the strength of the tool |
 | **Site speed** | Matters, but its impact is often overstated. Many big stores are slow | Fix obvious problems. Don't treat speed as a silver bullet |
 
 ## Navigation and layout

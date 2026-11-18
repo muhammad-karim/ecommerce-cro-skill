@@ -112,7 +112,7 @@ The **7-part anatomy of a high-converting review**:
 
 **Placement**: show a review summary above the fold, photo reviews below the images, trust badges near add-to-cart, a UGC gallery mid-page, and testimonials throughout.
 
-## 6. Recent experiments (Aug–Oct 2026)
+## 6. Recent experiments (Aug–Nov 2026)
 
 These are recent, specific tests. The revenue figures are self-reported single cases, so treat them as hypotheses worth testing, not guarantees.
 
@@ -133,6 +133,11 @@ These are recent, specific tests. The revenue figures are self-reported single c
 | **Announcement bar link** | Link only an underlined "Shop now" phrase, not the whole bar | ~$57k/month |
 | **Gift wrap upsell in cart** | An optional add-on that customers asked for, placed in the cart where it's seen | +$58.9k/month, +$6.01 RPV |
 | **Native vs builder landing pages** | Rebuilt a winning landing page natively in Shopify (Liquid) vs the same page in a page builder | Native: +9.9% CR, +20.9% RPV, +10% AOV |
+| **Four-line decision block (PDP)** | Four short lines together near the price and CTA: a size-finder link, an in-stock line, a delivery date range, and free shipping and returns in one line. Tested on a small sandal brand | +20.3% conversion, +21.7% RPV (single case, ConversionWise, 18 Nov 2026) |
+| **Cart upsell shelf** | A small upsell shelf in the cart rather than a full cross-sell row | +8.7% RPV, +5.6% conversion (reported, 18 Nov 2026) |
+| **Clearance link with no dropdown** | The clearance link goes straight to its collection page, not to a menu that needs hovering | ~$92k/month, +$1.22 RPV per session (reported, 11 Nov 2026) |
+| **Chips instead of sort and filter** | Clickable chips built from the most common search queries replace or sit beside Sort/Filter controls | Not quantified (18 Nov 2026) |
+| **Reassurance lines and mini cart under checkout** | Three short reassurance lines under the checkout button, with a mini cart | +9.1% conversion, +9.5% RPV (reported, 4 Nov 2026) |
 | **Persona post-click journeys** | One product, several personas. Each ad leads to a matching landing experience (PDP vs listicle vs advertorial vs quiz) and the whole journey is tested | Not quantified |
 
 Ideas repeatedly proposed as **first tests for a store with no data**:
@@ -145,5 +150,5 @@ Ideas repeatedly proposed as **first tests for a store with no data**:
 - "How to build high converting Ecommerce landing pages" mini-course and "100 Landing page redesigns" (Oliver Kenyon, ConversionWise)
 - Lead Generation Podcast ep. 50 (ATIDFA): https://leadpages.com/blog/oliver-kenyon-podcast-skyrocket-your-conversions
 - Affiliate World — landing page best practices: https://affiliateworldconferences.com/blog/landing-page-best-practices/
-- ConversionWise newsletter: https://newsletter.conversionwise.com/ (posts including "Product pages that actually convert", "The 7-part anatomy of a high-converting review", and the Aug–Oct 2026 issues)
+- ConversionWise newsletter: https://newsletter.conversionwise.com/ (posts including "Product pages that actually convert", "The 7-part anatomy of a high-converting review", and the Aug–Nov 2026 issues, including "Four lines that lifted conversion by 20.3%" on 18 Nov 2026)
 - X: https://x.com/oliverkenyon · LinkedIn: https://uk.linkedin.com/in/oliverkenyon
